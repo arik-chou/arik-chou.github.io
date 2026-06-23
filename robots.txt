@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://arik-chou.github.io/sitemap.xml
