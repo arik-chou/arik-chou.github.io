@@ -317,7 +317,7 @@ For installation and deployment details please refer to [docs/INSTALL.md](docs/I
 
 For customization details please refer to [docs/CUSTOMIZE.md](docs/CUSTOMIZE.md).
 
-## Plugin Ecosystem
+## Plugin Ecosystem :)
 
 `al-folio` is a thin starter in `v1.x`. Runtime features are plugin-owned and published as Ruby gems.
 
