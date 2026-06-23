@@ -257,7 +257,7 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
   - [Getting started](#getting-started)
   - [Installing and Deploying](#installing-and-deploying)
   - [Customizing](#customizing)
-  - [Plugin Ecosystem](#plugin-ecosystem)
+  - [Plugin Ecosystem :)](#plugin-ecosystem-)
   - [Using AI Agents](#using-ai-agents)
     - [Codex](#codex)
     - [Claude](#claude)
