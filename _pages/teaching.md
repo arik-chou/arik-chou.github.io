@@ -8,10 +8,9 @@ nav_order: 6
 ---
 
 ## University of California, Riverside
-
 ### Microbiology Laboratory
 **MCBL 121L &nbsp;|&nbsp; Department of Microbiology and Plant Pathology**
-
+{% include figure.liquid path="assets/img/ab1_view.jpg" caption="Bacterial isolate sequences" %}
 *Teaching Assistant — Winter 2025*
 *Instructor of Record: Prof. Jason Rothman*
 
@@ -28,12 +27,13 @@ A 3-unit laboratory course serving as the hands-on complement to Introductory Mi
 - Microscopy: preparation and examination of bacterial smears, Gram staining, and differential staining
 - Interpretation of biochemical and diagnostic test results
 - PCR amplification of target genes from bacterial isolates
-- FASTA sequence analysis and taxonomic identification via BLAST and sequence alignment tools
+- DNA sequence analysis and taxonomic identification via BLAST and sequence alignment tools
 
 ---
 
 ### Field Mycology: Ecology, Evolution, and Diversity of Fungi
 **MCBL 128 &nbsp;|&nbsp; Department of Microbiology and Plant Pathology**
+{% include figure.liquid path="assets/img/20210206_144156.jpg" caption="Field collection at Emerson Oaks" %}
 
 *Teaching Assistant — Winter 2022 & Winter 2024*
 *Instructor of Record: Prof. Sydney I. Glassman*
