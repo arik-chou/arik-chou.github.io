@@ -3,8 +3,12 @@
     "name": "Arik Joukhajian",
     "label": "Microbial Ecologist & PhD Researcher",
     "email": "arikjoukhajian@gmail.com",
+    "url": "https://arik-chou.github.io",
+    "summary": "PhD researcher in microbial ecology specializing in mycorrhizal fungi and post-fire microbiome dynamics.",
     "location": {
-      "address": "Los Angeles, CA"
+      "city": "Los Angeles",
+      "region": "California",
+      "countryCode": "US"
     },
     "profiles": []
   },
@@ -13,13 +17,15 @@
       "institution": "University of California, Riverside",
       "area": "Microbiology",
       "studyType": "PhD",
-      "endDate": "2025"
+      "startDate": "2020-01-01",
+      "endDate": "2025-01-01"
     },
     {
       "institution": "University of California, Los Angeles",
       "area": "Microbiology, Immunology, and Molecular Genetics",
       "studyType": "BSc",
-      "endDate": "2016",
+      "startDate": "2012-01-01",
+      "endDate": "2016-01-01",
       "score": "Minor in Atmospheric and Oceanic Sciences"
     }
   ],
@@ -27,8 +33,8 @@
     {
       "name": "UCR, Glassman Lab",
       "position": "PhD Researcher",
-      "startDate": "2020",
-      "endDate": "2025",
+      "startDate": "2020-01-01",
+      "endDate": "2025-01-01",
       "highlights": [
         "Conducted field work in the Mojave Desert for microbial ecology assessments",
         "Analyzed and presented next-generation sequencing data",
@@ -36,20 +42,20 @@
       ]
     },
     {
-      "name": "UCR, Gachomo Lab",
-      "position": "Rotation Graduate Researcher",
-      "startDate": "2020",
-      "endDate": "2020",
+      "name": "UCR, Gachomo Lab (Rotation)",
+      "position": "Graduate Researcher",
+      "startDate": "2020-01-01",
+      "endDate": "2020-06-01",
       "highlights": [
         "Tested methods of fungal DNA extraction from plant roots",
         "Amplification of target fungal sequences for analysis"
       ]
     },
     {
-      "name": "UCR, Stajich Lab",
-      "position": "Rotation Graduate Researcher",
-      "startDate": "2020",
-      "endDate": "2020",
+      "name": "UCR, Stajich Lab (Rotation)",
+      "position": "Graduate Researcher",
+      "startDate": "2020-01-01",
+      "endDate": "2020-06-01",
       "highlights": [
         "Assessment of lichenized fungal genomes for enzyme activity",
         "Analysis of secondary metabolite profiles from fungi"
@@ -58,8 +64,8 @@
     {
       "name": "Fulgent Genetics",
       "position": "BSL-2 Lab Technician",
-      "startDate": "2020",
-      "endDate": "2020",
+      "startDate": "2020-01-01",
+      "endDate": "2020-12-01",
       "highlights": [
         "Performed RNA extraction for high-throughput COVID-19 testing",
         "Maintained workflow by assisting with all aspects of sample processing"
@@ -68,8 +74,8 @@
     {
       "name": "VRL Eurofins Pre-Transplant Screening",
       "position": "BSL-2 Lab Technician",
-      "startDate": "2017",
-      "endDate": "2019",
+      "startDate": "2017-01-01",
+      "endDate": "2019-01-01",
       "highlights": [
         "Increased sample throughput by streamlining workflow of automated testing",
         "Reviewed and confirmed donor information",
@@ -79,8 +85,8 @@
     {
       "name": "UCLA, Research Immersion Laboratory for Microbiology",
       "position": "Student Researcher",
-      "startDate": "2015",
-      "endDate": "2016",
+      "startDate": "2015-01-01",
+      "endDate": "2016-01-01",
       "highlights": [
         "Cultured and sequenced bacterial isolates with anti-fungal compound production",
         "Developed research project from budgeting stage to poster presentation"
@@ -89,8 +95,8 @@
     {
       "name": "UCLA, Tina Treude Lab",
       "position": "Research Assistant",
-      "startDate": "2014",
-      "endDate": "2016",
+      "startDate": "2014-01-01",
+      "endDate": "2016-01-01",
       "highlights": [
         "Sample-processing of deep-sea sediment core samples",
         "Assisted with sample collection aboard the RV Yellowfin in the Santa Monica Bay"
@@ -99,8 +105,8 @@
     {
       "name": "USC, Center for Dark Energy Biosphere Investigations",
       "position": "Research Intern",
-      "startDate": "2014",
-      "endDate": "2014",
+      "startDate": "2014-01-01",
+      "endDate": "2014-12-01",
       "highlights": [
         "Produced bacterial qPCR data for 40+ deep sea sample sites",
         "Maintained and prepared new enrichments of microbial samples"
@@ -111,109 +117,91 @@
     {
       "name": "Eastern Joshua Tree Arbuscular Mycorrhizal Fungi Largely Consistent Across Roots, Soils, and Seasons",
       "publisher": "Environmental Microbiology",
-      "releaseDate": "2025",
+      "releaseDate": "2025-01-01",
       "url": "https://doi.org/10.1111/1462-2920.70138",
       "summary": "Joukhajian A and Glassman SI"
     },
     {
       "name": "Mojave Desert microbial communities show high resistance and resilience over three years despite widespread plant mortality following the Dome Fire",
       "publisher": "Fire Ecology",
-      "releaseDate": "2026",
+      "releaseDate": "2026-01-01",
       "url": "https://doi.org/10.1186/s42408-025-00435-7",
       "summary": "Joukhajian A, Pulido Barriga MF, Davis MJ, Sweet LC, and Glassman SI"
     },
     {
       "name": "Effects of Long-Term Fire Retardants on Mycorrhizal Colonization and Soil Microbiomes",
       "publisher": "SSRN Preprint",
-      "releaseDate": "2025",
+      "releaseDate": "2025-01-01",
       "url": "https://ssrn.com/abstract=5682623",
       "summary": "Quaal RJ, Enright DJ, Joukhajian A, Zhilik BB, and Glassman SI"
     },
     {
       "name": "Uncovering Arbuscular Mycorrhizal Fungi and Microbiome Responses to Dryland Fires",
-      "publisher": "ProQuest Dissertations & Theses",
-      "releaseDate": "2025",
+      "publisher": "ProQuest Dissertations & Theses, No. 32240170",
+      "releaseDate": "2025-01-01",
       "url": "https://www.proquest.com/openview/832e0dd723890ce36eda83cfa53c8bb4/1",
-      "summary": "PhD Dissertation, University of California, Riverside. ProQuest No. 32240170"
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Field Mycology (MCBL 128)",
-      "institution": "University of California, Riverside",
-      "role": "Teaching Assistant",
-      "startDate": "2022",
-      "endDate": "2024",
-      "summary": "Two quarters as lab assistant for slide preparation, dichotomous key usage, and field identification of mushrooms in Southern California under Dr. Sydney Glassman"
-    },
-    {
-      "course": "Microbiology Laboratory (MCBL 121L)",
-      "institution": "University of California, Riverside",
-      "role": "Teaching Assistant",
-      "startDate": "2025",
-      "endDate": "2025",
-      "summary": "Lab instructor for bacterial culturing techniques, quantification, microscopy, colorimetric testing, staining, and pathogen identification through Koch's postulates under Dr. Jason Rothman"
+      "summary": "PhD Dissertation, University of California, Riverside"
     }
   ],
   "awards": [
     {
-      "title": "Publication Grant, Environmental Microbiology",
-      "date": "2025",
+      "title": "Publication Grant",
+      "date": "2025-01-01",
       "awarder": "Environmental Microbiology"
     },
     {
-      "title": "UCR Degree Completion Fellowship Award",
-      "date": "2025",
+      "title": "Degree Completion Fellowship Award",
+      "date": "2025-01-01",
       "awarder": "University of California, Riverside"
     },
     {
-      "title": "UCR Microbiology Award for Excellence in Mycology",
-      "date": "2024",
+      "title": "Microbiology Award for Excellence in Mycology",
+      "date": "2024-01-01",
       "awarder": "University of California, Riverside"
     },
     {
       "title": "Klotz Conference Travel Grant",
-      "date": "2024",
+      "date": "2024-01-01",
       "awarder": "UCR"
     },
     {
-      "title": "Los Angeles Mycological Society Invited Speaker Award",
-      "date": "2024",
+      "title": "Invited Speaker Award",
+      "date": "2024-01-01",
       "awarder": "Los Angeles Mycological Society"
     },
     {
-      "title": "SPUN Underground Explorer Grant (Lead Researcher)",
-      "date": "2023",
-      "awarder": "Society for the Protection of Underground Networks"
+      "title": "Underground Explorer Grant (Lead Researcher)",
+      "date": "2023-01-01",
+      "awarder": "Society for the Protection of Underground Networks (SPUN)"
     },
     {
       "title": "HEERF Dissertation Year Fellowship",
-      "date": "2023",
+      "date": "2023-01-01",
       "awarder": "University of California, Riverside"
     },
     {
-      "title": "Ecological Society of America Opportunity Fund",
-      "date": "2022",
+      "title": "Opportunity Fund",
+      "date": "2022-01-01",
       "awarder": "Ecological Society of America"
     },
     {
-      "title": "Shipley-Skinner Reserve – Riverside County Endowment",
-      "date": "2022",
+      "title": "Shipley-Skinner Reserve Endowment",
+      "date": "2022-01-01",
       "awarder": "Riverside County"
     },
     {
       "title": "Klotz Conference Travel Grant",
-      "date": "2022",
+      "date": "2022-01-01",
       "awarder": "UCR"
     },
     {
-      "title": "Sonoma County Mycological Association Award",
-      "date": "2021",
+      "title": "Mycological Award",
+      "date": "2021-01-01",
       "awarder": "Sonoma County Mycological Association"
     },
     {
-      "title": "UC Riverside GradEdge Jumpstart",
-      "date": "2020",
+      "title": "GradEdge Jumpstart",
+      "date": "2020-01-01",
       "awarder": "University of California, Riverside"
     }
   ],
@@ -221,37 +209,32 @@
     {
       "organization": "International Congress of Armenian Mycologists",
       "position": "Co-founder",
-      "summary": "Co-founded ICAM, a 501(c)(3) non-profit organization to foster international collaboration and support mycology research in Armenia"
+      "startDate": "2020-01-01",
+      "summary": "Co-founded ICAM, a 501(c)(3) non-profit to foster international collaboration and support mycology research in Armenia"
     },
     {
       "organization": "Joshua Tree Science Newsletter",
       "position": "Reviewer",
+      "startDate": "2022-01-01",
       "summary": "Reviewing research submissions for local publications"
     },
     {
       "organization": "RUSD Science and Engineering Fair",
       "position": "Judge",
-      "startDate": "2020",
-      "endDate": "2020",
+      "startDate": "2020-01-01",
+      "endDate": "2020-12-01",
       "summary": "Judged student research projects for the Riverside Unified School District"
     }
   ],
-  "memberships": [
+  "interests": [
     {
-      "organization": "International Congress of Armenian Mycologists",
-      "startDate": "2020"
-    },
-    {
-      "organization": "American Society for Microbiology",
-      "startDate": "2020"
-    },
-    {
-      "organization": "Mycological Society of America",
-      "startDate": "2020"
-    },
-    {
-      "organization": "Ecological Society of America",
-      "startDate": "2021"
+      "name": "Scientific Societies",
+      "keywords": [
+        "International Congress of Armenian Mycologists (since 2020)",
+        "American Society for Microbiology (since 2020)",
+        "Mycological Society of America (since 2020)",
+        "Ecological Society of America (since 2021)"
+      ]
     }
-  ],
+  ]
 }
